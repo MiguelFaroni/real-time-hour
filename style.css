@@ -1,0 +1,45 @@
+body{
+    background-color: hsl(240, 84%, 65%);
+    font: normal 15px Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+    margin: 3em 0;
+    font-size: 20px;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.575);
+}
+
+.horario{
+    font-weight: bold;
+    text-align: center;
+    font-size: 19px;
+    margin: 1em 0;
+}
+
+.imagem{
+    text-align: center;
+    margin: 2em 0;
+}
+
+.foto{
+    
+    border-radius: 50%;
+    width: 400px;
+    height: 350px;
+   
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
